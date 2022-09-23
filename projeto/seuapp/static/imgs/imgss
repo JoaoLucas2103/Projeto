@@ -1,0 +1,3 @@
+{% static 'imgs/favicon.ico' %}
+{% static 'css/style.css' %}
+{% static 'imgs/logo.png' %}
